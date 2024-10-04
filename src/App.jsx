@@ -14,7 +14,8 @@ function App() {
     { name: "Baktygul Zhamangulova", image: "baku.png", bg: "baku.webp", title: "Geography" },
     { name: "Atabek Zhakeev", image: "atabek.png", bg: "atabek.jpg", title: "Math" },
     { name: "Kiyaz Amangulov", image: "kyiaz.png", bg: "coco.webp", title: "Technology" },
-
+    { name: "Aibek Temirkanov", image: "aibo.png", bg: "8.jpg", title: "Physical Education" },
+    { name: "Daniar Bazarkulov", image: "doni.png", bg: "2.jpg", title: "Physical Education" },
 
   ];
 
